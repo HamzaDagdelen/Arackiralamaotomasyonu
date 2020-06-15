@@ -1,0 +1,14 @@
+Merhaba ben Hamza Dağdelen uzun zamandır geliştirdiğim
+ Oto Kiralama Otomasyonunun kurulumunu anlatacağım.
+
+Adım 1 -) Projeyi netbeans içinde açalım.
+
+Adım 2 -) Veritabanını localhostta phpmyadmin panelinden veritabanı oluşturarak içine
+aktaralım.
+
+Adım 3 -) baglan.Java dosyasını kendimize göre ayarlayalım.
+
+Adım 4 -) Projemiz için gerekli kütüphaneleri arşivimizden çıkartıp 
+add library diyerekten ekleyelim.
+
+Son olarak admin rolünün kullanıcı adı: sa şifresi:123
